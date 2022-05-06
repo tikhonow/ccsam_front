@@ -36,10 +36,6 @@ self.__precacheManifest = [
     "url": "/static/media/rotate-right.fc925572.svg"
   },
   {
-    "revision": "05f1cdadfe476395f60e233b15c22155",
-    "url": "/static/media/icons-16.05f1cdad.eot"
-  },
-  {
     "revision": "3c1c220e7a18286503fb431c7a7fe183",
     "url": "/static/media/icons-16.3c1c220e.woff"
   },
@@ -48,16 +44,20 @@ self.__precacheManifest = [
     "url": "/static/media/icons-16.3cde8748.ttf"
   },
   {
-    "revision": "0a5c76518a68c185baa2c6744456918c",
-    "url": "/static/media/icons-20.0a5c7651.eot"
-  },
-  {
     "revision": "cef8cdbb9d0ba82e6e19fb0eeba2ac3d",
     "url": "/static/media/icons-20.cef8cdbb.woff"
   },
   {
     "revision": "51ec31f302d0072808e1f83f85fea4cd",
     "url": "/static/media/icons-20.51ec31f3.ttf"
+  },
+  {
+    "revision": "05f1cdadfe476395f60e233b15c22155",
+    "url": "/static/media/icons-16.05f1cdad.eot"
+  },
+  {
+    "revision": "0a5c76518a68c185baa2c6744456918c",
+    "url": "/static/media/icons-20.0a5c7651.eot"
   },
   {
     "revision": "8ec83433b3031a71bc2febed9c3792ee",
