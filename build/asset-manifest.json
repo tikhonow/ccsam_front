@@ -1,6 +1,6 @@
 {
   "main.css": "/static/css/main.70f71fd0.chunk.css",
-  "main.js": "/static/js/main.323219c3.chunk.js",
+  "main.js": "/static/js/main.8b0c479d.chunk.js",
   "static/css/1.96ee3432.chunk.css": "/static/css/1.96ee3432.chunk.css",
   "static/js/1.9734273e.chunk.js": "/static/js/1.9734273e.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -10,6 +10,6 @@
   "static/media/rotate-right.svg": "/static/media/rotate-right.fc925572.svg",
   "static/media/blueprint-icons.css": "/static/media/icons-20.51ec31f3.ttf",
   "index.html": "/index.html",
-  "precache-manifest.97ab2af167b6f15fd490f08ee57608d7.js": "/precache-manifest.97ab2af167b6f15fd490f08ee57608d7.js",
+  "precache-manifest.dce3ee2cd3618514710db273b6b221ff.js": "/precache-manifest.dce3ee2cd3618514710db273b6b221ff.js",
   "service-worker.js": "/service-worker.js"
 }
