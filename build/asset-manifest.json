@@ -1,8 +1,8 @@
 {
   "main.css": "/static/css/main.70f71fd0.chunk.css",
-  "main.js": "/static/js/main.d3bfc3fd.chunk.js",
+  "main.js": "/static/js/main.323219c3.chunk.js",
   "static/css/1.96ee3432.chunk.css": "/static/css/1.96ee3432.chunk.css",
-  "static/js/1.fe38f0e4.chunk.js": "/static/js/1.fe38f0e4.chunk.js",
+  "static/js/1.9734273e.chunk.js": "/static/js/1.9734273e.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/matcap-porcelain-white.jpg": "/static/media/matcap-porcelain-white.1b992319.jpg",
   "static/media/undershadow.png": "/static/media/undershadow.59382953.png",
@@ -10,6 +10,6 @@
   "static/media/rotate-right.svg": "/static/media/rotate-right.fc925572.svg",
   "static/media/blueprint-icons.css": "/static/media/icons-20.51ec31f3.ttf",
   "index.html": "/index.html",
-  "precache-manifest.e3a9ebf633f702c9e61ce38d6b644d07.js": "/precache-manifest.e3a9ebf633f702c9e61ce38d6b644d07.js",
+  "precache-manifest.97ab2af167b6f15fd490f08ee57608d7.js": "/precache-manifest.97ab2af167b6f15fd490f08ee57608d7.js",
   "service-worker.js": "/service-worker.js"
 }
